@@ -1,0 +1,2 @@
+# MySharedPreference
+simple storage mechanism
